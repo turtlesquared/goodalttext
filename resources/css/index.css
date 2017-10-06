@@ -1,0 +1,23 @@
+* {
+  font-family: 'Roboto', sans-serif;
+  background-size: 500px;
+  background-color: white;
+}
+
+h1 {
+  font-family: 'Nosifer', cursive;
+  font-size: 50px;
+  font-weight: bold;
+  color: #52F7FF;
+  text-align: center;
+  background-color: #1DC808;
+}
+
+ol {
+  font-size: 18px;
+}
+
+strong {
+    color: #1DC808;
+    font-size: 20px;
+}
